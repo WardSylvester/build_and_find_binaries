@@ -1,6 +1,8 @@
 # Ward Sylvester
 
 """
+Implementation of build_and_find_binaries that prints binaries with more 1's than 0's.
+
 Write a build_and_find_binaries function below which builds and checks the binary sequences of length as target_len.
 If the binary sequence has more 1's than 0's, print it.
 This should be a recursive function - you should not use any iteration in your solution.
